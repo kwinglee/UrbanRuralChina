@@ -1,0 +1,161 @@
+MG-RAST ID	Metagenome Name	bp Count	Sequence Count	Biome	Feature	Material	Location	Country	Coordinates	Sequence Type	Sequence Method
+4680735.3	093B_reverse	29781250	119125	 	 	 	 	 	 	Amplicon	454
+4680736.3	025B_reverse	20903000	83612	 	 	 	 	 	 	Amplicon	454
+4680737.3	086A_forward	25519750	102079	 	 	 	 	 	 	Amplicon	454
+4680738.3	031A_forward	17554500	70218	 	 	 	 	 	 	Amplicon	454
+4680739.3	021A_reverse	43093500	172374	 	 	 	 	 	 	Amplicon	454
+4680740.3	029B_reverse	22159750	88639	 	 	 	 	 	 	Amplicon	454
+4680741.3	015A_reverse	40083250	160333	 	 	 	 	 	 	Amplicon	454
+4680742.3	093A_forward	18974000	75896	 	 	 	 	 	 	Amplicon	454
+4680743.3	015A_forward	40083250	160333	 	 	 	 	 	 	Amplicon	454
+4680744.3	035A_reverse	14744250	58977	 	 	 	 	 	 	Amplicon	454
+4680745.3	082B_forward	27732250	110929	 	 	 	 	 	 	Amplicon	454
+4680746.3	031B_forward	18615000	74460	 	 	 	 	 	 	Amplicon	454
+4680747.3	099B_forward	32362250	129449	 	 	 	 	 	 	Amplicon	454
+4680748.3	011B_reverse	28151250	112605	 	 	 	 	 	 	Amplicon	454
+4680750.3	083A_reverse	18714000	74856	 	 	 	 	 	 	Amplicon	454
+4680752.3	118A_forward	20261750	81047	 	 	 	 	 	 	Amplicon	454
+4680753.3	085B_forward	23310750	93243	 	 	 	 	 	 	Amplicon	454
+4680755.3	006A_forward	30338000	121352	 	 	 	 	 	 	Amplicon	454
+4680757.3	108B_reverse	27777000	111108	 	 	 	 	 	 	Amplicon	454
+4680759.3	098A_reverse	47756750	191027	 	 	 	 	 	 	Amplicon	454
+4680760.3	039B_reverse	23363500	93454	 	 	 	 	 	 	Amplicon	454
+4680762.3	091B_reverse	29529000	118116	 	 	 	 	 	 	Amplicon	454
+4680764.3	116A_forward	29248000	116992	 	 	 	 	 	 	Amplicon	454
+4680766.3	028B_forward	18893000	75572	 	 	 	 	 	 	Amplicon	454
+4680768.3	120A_forward	24942750	99771	 	 	 	 	 	 	Amplicon	454
+4680769.3	035B_forward	40230750	160923	 	 	 	 	 	 	Amplicon	454
+4680770.3	029A_reverse	17213250	68853	 	 	 	 	 	 	Amplicon	454
+4680771.3	108B_forward	27777000	111108	 	 	 	 	 	 	Amplicon	454
+4680772.3	034A_forward	47580250	190321	 	 	 	 	 	 	Amplicon	454
+4680773.3	003A_reverse	44876000	179504	 	 	 	 	 	 	Amplicon	454
+4680774.3	082A_forward	26492750	105971	 	 	 	 	 	 	Amplicon	454
+4680775.3	101A_reverse	19788750	79155	 	 	 	 	 	 	Amplicon	454
+4680776.3	037A_reverse	19004500	76018	 	 	 	 	 	 	Amplicon	454
+4680777.3	013B_forward	30095750	120383	 	 	 	 	 	 	Amplicon	454
+4680778.3	039B_forward	23363500	93454	 	 	 	 	 	 	Amplicon	454
+4680779.3	003B_forward	31381750	125527	 	 	 	 	 	 	Amplicon	454
+4680780.3	037B_reverse	20428500	81714	 	 	 	 	 	 	Amplicon	454
+4680781.3	007B_reverse	29532250	118129	 	 	 	 	 	 	Amplicon	454
+4680782.3	107B_forward	47084000	188336	 	 	 	 	 	 	Amplicon	454
+4680783.3	100B_reverse	23462750	93851	 	 	 	 	 	 	Amplicon	454
+4680784.3	029B_forward	22159750	88639	 	 	 	 	 	 	Amplicon	454
+4680785.3	011A_forward	19860250	79441	 	 	 	 	 	 	Amplicon	454
+4680786.3	118B_reverse	28034250	112137	 	 	 	 	 	 	Amplicon	454
+4680787.3	119A_reverse	27404500	109618	 	 	 	 	 	 	Amplicon	454
+4680788.3	100A_forward	17258250	69033	 	 	 	 	 	 	Amplicon	454
+4680789.3	116A_reverse	29248000	116992	 	 	 	 	 	 	Amplicon	454
+4680790.3	018B_reverse	30778000	123112	 	 	 	 	 	 	Amplicon	454
+4680791.3	109B_reverse	27545750	110183	 	 	 	 	 	 	Amplicon	454
+4680792.3	108A_reverse	22648250	90593	 	 	 	 	 	 	Amplicon	454
+4680793.3	118B_forward	28034250	112137	 	 	 	 	 	 	Amplicon	454
+4680794.3	082B_reverse	27732250	110929	 	 	 	 	 	 	Amplicon	454
+4680795.3	084B_reverse	31594500	126378	 	 	 	 	 	 	Amplicon	454
+4680796.3	084A_forward	22143500	88574	 	 	 	 	 	 	Amplicon	454
+4680797.3	109A_reverse	17315000	69260	 	 	 	 	 	 	Amplicon	454
+4680798.3	116B_forward	22006500	88026	 	 	 	 	 	 	Amplicon	454
+4680799.3	018A_forward	25253500	101014	 	 	 	 	 	 	Amplicon	454
+4680801.3	020B_reverse	27804250	111217	 	 	 	 	 	 	Amplicon	454
+4680803.3	119B_reverse	30332750	121331	 	 	 	 	 	 	Amplicon	454
+4680804.3	091A_reverse	19982500	79930	 	 	 	 	 	 	Amplicon	454
+4680805.3	010B_forward	28855750	115423	 	 	 	 	 	 	Amplicon	454
+4680806.3	035A_forward	14744250	58977	 	 	 	 	 	 	Amplicon	454
+4680807.3	007A_reverse	41897500	167590	 	 	 	 	 	 	Amplicon	454
+4680808.3	006B_forward	28053250	112213	 	 	 	 	 	 	Amplicon	454
+4680809.3	107A_forward	18387500	73550	 	 	 	 	 	 	Amplicon	454
+4680810.3	020B_forward	27804250	111217	 	 	 	 	 	 	Amplicon	454
+4680811.3	107A_reverse	18387500	73550	 	 	 	 	 	 	Amplicon	454
+4680812.3	039A_reverse	18753500	75014	 	 	 	 	 	 	Amplicon	454
+4680813.3	034B_reverse	29330000	117320	 	 	 	 	 	 	Amplicon	454
+4680814.3	094A_forward	18134500	72538	 	 	 	 	 	 	Amplicon	454
+4680815.3	025A_reverse	20003500	80014	 	 	 	 	 	 	Amplicon	454
+4680816.3	011A_reverse	19860250	79441	 	 	 	 	 	 	Amplicon	454
+4680817.3	091B_forward	29529000	118116	 	 	 	 	 	 	Amplicon	454
+4680818.3	116B_reverse	22006500	88026	 	 	 	 	 	 	Amplicon	454
+4680819.3	013A_reverse	17939500	71758	 	 	 	 	 	 	Amplicon	454
+4680820.3	099B_reverse	32362250	129449	 	 	 	 	 	 	Amplicon	454
+4680821.3	085A_reverse	32819000	131276	 	 	 	 	 	 	Amplicon	454
+4680822.3	100A_reverse	17258250	69033	 	 	 	 	 	 	Amplicon	454
+4680823.3	085A_forward	32819000	131276	 	 	 	 	 	 	Amplicon	454
+4680825.3	119B_forward	30332750	121331	 	 	 	 	 	 	Amplicon	454
+4680827.3	034B_forward	29330000	117320	 	 	 	 	 	 	Amplicon	454
+4680828.3	001A_forward	26054750	104219	 	 	 	 	 	 	Amplicon	454
+4680830.3	081B_reverse	26691250	106765	 	 	 	 	 	 	Amplicon	454
+4680832.3	015B_forward	31830750	127323	 	 	 	 	 	 	Amplicon	454
+4680834.3	083A_forward	18714000	74856	 	 	 	 	 	 	Amplicon	454
+4680835.3	024B_reverse	29213750	116855	 	 	 	 	 	 	Amplicon	454
+4680837.3	021A_forward	43093500	172374	 	 	 	 	 	 	Amplicon	454
+4680839.3	028B_reverse	18893000	75572	 	 	 	 	 	 	Amplicon	454
+4680841.3	107B_reverse	47084000	188336	 	 	 	 	 	 	Amplicon	454
+4680842.3	021B_forward	24516500	98066	 	 	 	 	 	 	Amplicon	454
+4680844.3	091A_forward	19982500	79930	 	 	 	 	 	 	Amplicon	454
+4680846.3	086A_reverse	25519750	102079	 	 	 	 	 	 	Amplicon	454
+4680848.3	039A_forward	18753500	75014	 	 	 	 	 	 	Amplicon	454
+4680850.3	120B_forward	28511000	114044	 	 	 	 	 	 	Amplicon	454
+4680852.3	031A_reverse	17554500	70218	 	 	 	 	 	 	Amplicon	454
+4680854.3	093B_forward	29781250	119125	 	 	 	 	 	 	Amplicon	454
+4680856.3	021B_reverse	24516500	98066	 	 	 	 	 	 	Amplicon	454
+4680857.3	098B_forward	29314750	117259	 	 	 	 	 	 	Amplicon	454
+4680859.3	029A_forward	17213250	68853	 	 	 	 	 	 	Amplicon	454
+4680861.3	037A_forward	19004500	76018	 	 	 	 	 	 	Amplicon	454
+4680863.3	007B_forward	29532250	118129	 	 	 	 	 	 	Amplicon	454
+4680865.3	001B_forward	26186000	104744	 	 	 	 	 	 	Amplicon	454
+4680867.3	120A_reverse	24942750	99771	 	 	 	 	 	 	Amplicon	454
+4680870.3	109B_forward	27545750	110183	 	 	 	 	 	 	Amplicon	454
+4680969.3	025A_forward	20003500	80014	 	 	 	 	 	 	Amplicon	454
+4680971.3	003B_reverse	31381750	125527	 	 	 	 	 	 	Amplicon	454
+4680973.3	001A_reverse	26054750	104219	 	 	 	 	 	 	Amplicon	454
+4680974.3	024B_forward	29213750	116855	 	 	 	 	 	 	Amplicon	454
+4680975.3	007A_forward	41897500	167590	 	 	 	 	 	 	Amplicon	454
+4680976.3	081A_forward	24795250	99181	 	 	 	 	 	 	Amplicon	454
+4680977.3	024A_forward	20821500	83286	 	 	 	 	 	 	Amplicon	454
+4680978.3	028A_reverse	20145500	80582	 	 	 	 	 	 	Amplicon	454
+4680979.3	118A_reverse	20261750	81047	 	 	 	 	 	 	Amplicon	454
+4680980.3	094B_forward	24515750	98063	 	 	 	 	 	 	Amplicon	454
+4680981.3	108A_forward	22648250	90593	 	 	 	 	 	 	Amplicon	454
+4680982.3	010A_forward	19732750	78931	 	 	 	 	 	 	Amplicon	454
+4680983.3	013A_forward	17939500	71758	 	 	 	 	 	 	Amplicon	454
+4680984.3	083B_forward	33002750	132011	 	 	 	 	 	 	Amplicon	454
+4680985.3	099A_reverse	18013000	72052	 	 	 	 	 	 	Amplicon	454
+4680986.3	018A_reverse	25253500	101014	 	 	 	 	 	 	Amplicon	454
+4680987.3	003A_forward	44876000	179504	 	 	 	 	 	 	Amplicon	454
+4680988.3	094A_reverse	18134500	72538	 	 	 	 	 	 	Amplicon	454
+4680989.3	086B_forward	43752500	175010	 	 	 	 	 	 	Amplicon	454
+4680990.3	099A_forward	18013000	72052	 	 	 	 	 	 	Amplicon	454
+4680991.3	094B_reverse	24515750	98063	 	 	 	 	 	 	Amplicon	454
+4680992.3	024A_reverse	20821500	83286	 	 	 	 	 	 	Amplicon	454
+4680993.3	015B_reverse	31830750	127323	 	 	 	 	 	 	Amplicon	454
+4680994.3	018B_forward	30778000	123112	 	 	 	 	 	 	Amplicon	454
+4680995.3	119A_forward	27404500	109618	 	 	 	 	 	 	Amplicon	454
+4680996.3	098A_forward	47756750	191027	 	 	 	 	 	 	Amplicon	454
+4680997.3	082A_reverse	26492750	105971	 	 	 	 	 	 	Amplicon	454
+4680998.3	085B_reverse	23310750	93243	 	 	 	 	 	 	Amplicon	454
+4680999.3	028A_forward	20145500	80582	 	 	 	 	 	 	Amplicon	454
+4681000.3	081B_forward	26691250	106765	 	 	 	 	 	 	Amplicon	454
+4681001.3	101B_forward	29267500	117070	 	 	 	 	 	 	Amplicon	454
+4681002.3	020A_reverse	24766250	99065	 	 	 	 	 	 	Amplicon	454
+4681003.3	013B_reverse	30095750	120383	 	 	 	 	 	 	Amplicon	454
+4681004.3	010A_reverse	19732750	78931	 	 	 	 	 	 	Amplicon	454
+4681006.3	031B_reverse	18615000	74460	 	 	 	 	 	 	Amplicon	454
+4681008.3	001B_reverse	26186000	104744	 	 	 	 	 	 	Amplicon	454
+4685989.3	086B_reverse	43752500	175010	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685990.3	101A_forward	19788750	79155	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685991.3	120B_reverse	28511000	114044	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685992.3	081A_reverse	24795250	99181	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685993.3	093A_reverse	18974000	75896	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685994.3	034A_reverse	47580250	190321	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685995.3	020A_forward	24766250	99065	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685996.3	084A_reverse	22143500	88574	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685997.3	035B_reverse	40230750	160923	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685998.3	084B_forward	31594500	126378	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4685999.3	006B_reverse	28053250	112213	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686000.3	011B_forward	28151250	112605	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686001.3	025B_forward	20903000	83612	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686002.3	083B_reverse	33002750	132011	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686003.3	109A_forward	17315000	69260	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686004.3	098B_reverse	29314750	117259	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686005.3	010B_reverse	28855750	115423	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686006.3	100B_forward	23462750	93851	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686007.3	006A_reverse	30338000	121352	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686008.3	101B_reverse	29267500	117070	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina
+4686009.3	037B_forward	20428500	81714	terrestrial biome	national geopolitical entity	biological product	Hunan Province	China	27.4 111.8	Amplicon	illumina

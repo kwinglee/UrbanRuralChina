@@ -5,6 +5,7 @@ This directory contains the code used to analyze the data for Winglee et al., Re
 For all code (all code here is written in R but saved as a text file), you will need to modify the working directory. This line is usually the second line of code, and is currently written: setwd(""). Put the directory name in these quotes. The code is currently set up to assume everything is in the same directory; if this is not your setup you may need to add file paths where relevant. In each section, if I refer to a file in a different section I give the path name. For example, 16SrRNA/inputData/RDP would indicate the RDP folder in the inputData folder in the 16SrRNA folder.
 
 ##Metadata Analysis##
+
 This section refers to the files in the metadata folder and contains the analysis of the metadata, including diet data, fasting blood, and spot urine results.
 
 The metadata table is metadata_11232015.txt. The values of select columns have been set to "removed" to protect subject privacy. metadataConversion.txt indicates what each variable is measuring.
@@ -16,6 +17,7 @@ metadataFig.R.txt -> draws a PCoA for the metadata and generates a table of orth
 metadataModel.R.txt -> p-values and boxplots for each metadata (output names start with metadataModel). Its input is metadata_cleaned11-2015.txt from formatMetadata_2015-11.R.txt.
 
 ##Metabolite Analysis##
+
 This section refers to the files in the metabolite folder and contains the analysis of the Metabolon results.
 
 The data is in MetabolonScaledImpData-transpose.txt. metabolonPathwayInfo.txt contains pathway details for each metabolite.
@@ -27,6 +29,7 @@ metabolonModel.R.txt -> model p-values and boxplots for each metabolite. Its inp
 pcoaModel_metabolonMetadata.R.txt -> p-values for the PCoA axes for both the metabolite data and metadata The inputs come from figures/metabolonFig.R and metadata/metadataFig.R. Output names start with pcoaModel.
 
 ##16S rRNA Analysis##
+
 This section refers to the files in the 16SrRNA folder and contains the 16S rRNA analysis.
 
 Files in the inputData/RDP folder contain the RDP tables. RDPtaxonomy.txt contains the full taxonomic classification, drawn from the outputs of running RDP on several data sets. Files in the inputData/abundantOTU folder contain the AbundantOTU+ results. Files in the inputData/qiime folder contain the QIIME results. Files in the databaseResults folder contain the results of aligning the OTUs to various databases. Files whose name contains LogNorm or log-norm are log normalized; otherwise files whose name contains taxaAsColumns contain the counts.
@@ -45,6 +48,7 @@ classifyPlusROCrpart.R -> uses the rpart function to classify the data and write
 model_otu-metadata-metabolon.R.txt -> calculates associations between 16S rRNA taxonomic abundances, metadata and metabolite data and plots the results. Inputs are metadata_cleaned11-2015.txt from metadata/formatMetadata_2015-11.R.txt, metabolite/MetabolonScaledImpData-transpose.txt, the files in inputData/RDP and inputData/abundantOTU/abundantOTUForwardTaxaAsColumnsLogNormalWithMetadata.txt. Outputs files whose names start with model.
 
 ##Minikraken Analysis##
+
 This section refers to the files in the minikraken folder and contains the WGS taxonomic analysis using Kraken with the minikraken database.
 
 Files in inputData contain the raw counts from Kraken for each taxa for each sample.
@@ -60,6 +64,7 @@ minikraken_diversity.R.txt -> calculates the Shannon diversity index, Inverse Si
 minikraken_model_otu-metadata-metabolon.R.txt -> calculates the associations between minikraken taxonomic abundances, metadata and metabolite data and plots the results. Its inputs are metadata_cleaned11-2015.txt (from metadata/formatMetadata_2015-11.txt), metabolite/MetabolonScaledImpData-transpose.txt, and the log normalized tables from formatMinikrakenTable.R.txt. Outputs files whose names start with minikraken_model.
 
 ##HUMAnN Analysis##
+
 This section refers to the files in the humann folder and contains the WGS gene content analysis using HUMAnN.
 
 The files in the inputData folder contain the HUMAnN output files used.
@@ -75,6 +80,7 @@ humann_vegan_diversity.R.txt -> calculates the Shannon diversity index, Inverse 
 humann_model_kegg-metadata-metabolon_unlog.R.txt -> calculates the associations between the KEGG modules/pathways and metabolite data or metadata. Its inputs are metadata_cleaned11-2015.txt (from metadata/formatMetadata_2015-11.txt), metabolite/MetabolonScaledImpData-transpose.txt, and the output of formatHumannTables.R.txt. Outputs files whose name starts with humann_model_unlog.
 
 ##Align WGS Reads to CARD or MvirDB databases##
+
 This section refers to the files in the CARDandMvirDB folder and contains the results of aligning the whole metagenome reads to the CARD protein homolog database or MvirDB.
 
 The file pro_homolog_results.txt contains the proportion of reads that aligned to the CARD protein homolog database.
@@ -84,9 +90,11 @@ cardsAssoc.R.txt -> analyzes the associations between the proportion of reads ma
 virulenceAssoc.R.txt -> analyzes the associations between the proportion of reads mapped to MvirDB and VFDB (full and core databases) and the 16S, Kraken, HUMAnN, metadata or metabolite values. Its inputs are MvirDB_results.txt, VFDBcore_results.txt and VFDBfull_results.txt, the files in 16SrRNA/inputData/RDP and 16SrRNA/inputData/abundantOTU, the log normalized tables output from minikraken/analysis/formatMinikrakenTable.R.txt, the output of humann/analysis/formatHumannTables.R.txt, metadata_cleaned11-2015.txt from metadata/formatMetadata_2015_11.R.txt, and metabolite/MetabolonScaledImpData-transpose.txt. It outputs files whose name starts with virulenceAssoc, which looks at the association between the proportion of reads mapped anywhere in the database or at the association to all genes individually (files with allGenes in the name). Note that running the genes individually is slow; you can comment out all calls to assocGenes if you wish to skip this analysis and only look at the proportion of reads that mapped anywhere in the database. Also note this looks at all three virulence databases, but only MvirDB (which includes VFDB) was used for later analyses.
 
 ##Accession Numbers##
+
 The files in the accessionNumbers folder contain the tables from SRA (China_16S_srametadata.txt-processed-ok.tsv for the 16S reads and China_wgs_srametadata.txt-processed-ok.tsv for the WGS reads) and MG-RAST (2016-2-10table_all160_from_mgrast.txt; 16S reads only) containing the accession numbers for the sequence uploads. number16Sreads.txt contains the number of reads for each 16S file from BGI.
 
 ##Figures##
+
 The code to generate the main figures can be found in the figures folder.
 
 Figure 1 (Differences in microbial composition between urban and rural Chinese subjects) is generated by microbiomeFig_rarefy.R. This script takes as input the files in 16SrRNA/inputData and the outputs of rarefyDiversity.R, pcoaModel_16s.R, and classifyPlusROCcforest.R (all in 16SrRNA/analysis). The resulting figure is called microbiomeFig.tif.
@@ -100,6 +108,7 @@ Figure 4 (Viruses and Archaea are less abundant in the urban Chinese microbiome 
 Figure 5 (The microbiome of urban Chinese subjects encodes more genetic diversity, including more genes conferring antibiotic resistance, than rural Chinese subjects) is generated by humannFigWithAbxAndVirHoriz.R. This script takes as input the outputs of formatHumannTables.R, humann_pcoaModel_China_unlog.R, humann_vegan_diversity.R (all in humann/analysis), as well as the tables in the CARDandMvirDB folder and the output of of 16SrRNA/analysis/relAbun.R to add metadata. The resulting figure is called humannFigWithAbxAndVirHoriz.tif.
 
 ##Supplemental Figures##
+
 The code to generate the supplemental figures can be found in the supplementalFigures folder.
 
 Supplemental Figure S1 (Correlation between timepoints) is generated by T1vT2SuppFig.R. This script takes as input the tables from 16SrRNA/analysis/pcoaWithDiversity.R. The resulting figure is called T1vT2SuppFig.tif.
@@ -125,9 +134,11 @@ Supplemental Figure S11 (KEGG pathways significantly different in abundance betw
 Supplemental Figure S12 (The proportion of reads that map to genes that confer antibiotic resistance is associated with Escherichia and Shigella) is generated by abx_v_eschshig.R. This script takes as input CARDandMvirDB/pro_homolog_results.txt, the files in 16SrRNA/inputData/RDP, and the output of cardsAssoc.R.txt, minikraken/analysis/formatMinikrakenTable.R.txt. The resulting figure is called abx_v_eschshig.tif.
 
 ##Table##
+
 The model results in Table 1 (Characteristics of the populations studied) came from metadata/metadataModel.R.
 
 ##Supplemental Tables##
+
 The code to generate the supplemental tables can be found in the supplementalTables folder. Each individual text file output was made into a tab in the final Excel spreadsheet.
 
 Supplemental Table S1 (Sequencing statistics and metadata for each sample) is generated by seqStatsTable.R. This script takes as input 16SrRNA/inputData/RDP/phylum_taxaAsColumnsLogNorm_WithMetadata.txt for metadata and the files in the accessionNumbers folder. Output table is called seqStats.txt.

@@ -1,0 +1,1573 @@
+phylum	class	order	family	genus
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto
+"Proteobacteria"	Epsilonproteobacteria	Campylobacterales	"Hydrogenimonaceae"	Hydrogenimonas
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Litorimonas
+"Chloroflexi"	Thermomicrobia	Sphaerobacterales	Sphaerobacteraceae	Sphaerobacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pelagibaca
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Aidingimonas
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfurivibrio
+"Chlorobi"	"Chlorobia"	Chlorobiales	Chlorobiaceae	Chloroherpeton
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Sediminibacter
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter
+"Crenarchaeota"	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfurisphaera
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Simiduia
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 4	Geosporobacter
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lactonifactor
+"Euryarchaeota"	"Methanomicrobia"	Methanosarcinales	Methermicoccaceae	Methermicoccus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Luteococcus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Thermocrispum
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Lamprocystis
+"Acidobacteria"	Holophagae	Holophagales	Holophagaceae	Geothrix
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Undibacterium
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Marinimicrobium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Paucibacter
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Gordonibacter
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Rikenellaceae"	Rikenella
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"		Sunxiuqinia
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Delftia
+Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Selenihalanaerobacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Gilvibacter
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Oceanobacter
+"Proteobacteria"	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae	Malonomonas
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Myxococcaceae	Pyxidicoccus
+"Euryarchaeota"	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Sarcina
+"Verrucomicrobia"	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Luteolibacter
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Gulbenkiania
+Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Altererythrobacter
+"Euryarchaeota"	Thermoplasmata	Thermoplasmatales	Thermoplasmatales_incertae_sedis	Thermogymnomonas
+"Acidobacteria"	Acidobacteria_Gp1			Telmatobacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Flavivirga
+"Chloroflexi"	Ardenticatenia	Ardenticatenales	Ardenticatenaceae	Ardenticatena
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfococcus
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Perlucidibaca
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Aminomonas
+"Euryarchaeota"	"Methanomicrobia"	Methanomicrobiales	Methanoregulaceae	Methanoregula
+Firmicutes	Clostridia	Clostridiales	Incertae Sedis IV	Caldicoprobacter
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Tissierella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Moheibacter
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Fibrella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Piscinibacter
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Syntrophococcus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hylemonella
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Tistlia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Corynebacteriaceae	Turicella
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Aliidiomarina
+Hydrogenedentes				Candidatus Hydrogenedens
+"Proteobacteria"	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae	Desulfoglaeba
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Parasegetibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Enteractinococcus
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halapricum
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pontibaca
+"Planctomycetes"	Planctomycetia	Candidatus Brocadiales	Candidatus Brocadiaceae	Candidatus Brocadia
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Kofleriaceae	Kofleria
+"Actinobacteria"	Actinobacteria	Actinomycetales	Bogoriellaceae	Bogoriella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Agromyces
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Leptotrichiaceae"	Streptobacillus
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Vibrio
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfatirhabdium
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae I	Desulfitispora
+Firmicutes	Clostridia	Clostridiales	Heliobacteriaceae	Heliophilum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Ruaniaceae	Haloactinobacterium
+"Tenericutes"	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Mesoplasma
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Starkeya
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 3	Brassicibacter
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Rikenellaceae"	Alistipes
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Nitrosococcus
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemania
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseisalinus
+"Aquificae"	Aquificae	Aquificales	Hydrogenothermaceae	Hydrogenothermus
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Jonquetella
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Silanimonas
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Hoeflea
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Goodfellowiella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Xenophilus
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Salinivibrio
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Ornithinibacter
+"Proteobacteria"	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosomonas
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Halopenitus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Thermomonosporaceae	Thermomonospora
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Halobaculum
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azorhizophilus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Ornithinicoccus
+"Crenarchaeota"	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Sulfophobococcus
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Natribacillus
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Panacagrimonas
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Hwanghaeicola
+"Verrucomicrobia"	Opitutae	Opitutales	Opitutaceae	Alterococcus
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Leadbetterella
+Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Paralactobacillus
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Dysgonomonas
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 1	Thermincola
+"Proteobacteria"	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae	Desulforhabdus
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Paraeggerthella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Glycomycetaceae	Stackebrandtia
+Firmicutes	Clostridia	Clostridiales	Incertae Sedis XI	Murdochiella
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Endobacter
+Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Eremococcus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Tepidamorphus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Tistrella
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Sinobacterium
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Flexithrix
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Lutimaribacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Hansschlegelia
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Persicobacter
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Pseudoflavonifractor
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Grimontia
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 3	Thermohalobacter
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halorussus
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ethanoligenens
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Halolamina
+"Actinobacteria"	Actinobacteria	Actinomycetales	Segniliparaceae	Segniliparus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Citreicella
+Cyanobacteria/Chloroplast	Chloroplast		Chloroplast	Streptophyta
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Sporacetigenium
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 1	Saccharibacillus
+"Actinobacteria"	Actinobacteria	Euzebyales	Euzebyaceae	Euzebya
+Diapherotrites				Diapherotrites Incertae Sedis AR10
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Alkalispirillum
+"Chloroflexi"	Anaerolineae	Anaerolineales	Anaerolineaceae	Leptolinea
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales		Maricurvus
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Polyangiaceae	Byssovorax
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter
+"Crenarchaeota"	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Stetteria
+Firmicutes	Clostridia	Clostridiales	Clostridiales_incertae_sedis	Proteiniborus
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Anaerosinus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Lelliottia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Skermania
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Collimonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Glycomycetaceae	Haloglycomyces
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Serinicoccus
+"Tenericutes"	Mollicutes	Haloplasmatales	Haloplasmataceae	Haloplasma
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Halalkalibacillus
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Pseudidiomarina
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Alpinimonas
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Nannocystaceae	Nannocystis
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Thermosinus
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Cryomorphaceae	Lishizhenia
+Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Tolumonas
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Obesumbacterium
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Joostella
+Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Psychrobacillus
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 2	Mechercharimyces
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Parapedobacter
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Aminiphilus
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Leucothrix
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Taylorella
+"Proteobacteria"	Deltaproteobacteria	Desulfovibrionales	Desulfohalobiaceae	Desulfovermiculus
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	Bacteroidaceae	Anaerorhabdus
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Howardella
+"Proteobacteria"	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila
+"Acidobacteria"	Acidobacteria_Gp4			Blastocatella
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Siphonobacter
+Candidatus Saccharibacteria				Saccharibacteria_genera_incertae_sedis
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Rhodoligotrophos
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfocella
+Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Acidaminococcus
+"Proteobacteria"	Alphaproteobacteria	Alphaproteobacteria_incertae_sedis		Geminicoccus
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Anaerosalibacter
+"Deferribacteres"	Deferribacteres	Deferribacterales	Deferribacteraceae	Flexistipes
+"Proteobacteria"	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter
+Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermatophilaceae	Piscicoccus
+"Planctomycetes"	Planctomycetia	Candidatus Brocadiales	Candidatus Brocadiaceae	Candidatus Scalindua
+"Euryarchaeota"	"Methanomicrobia"	Methanomicrobiales	Methanomicrobiaceae	Methanomicrobium
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Rhodopirellula
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermacetogenium
+Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Tessaracoccus
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Sporanaerobacter
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Megasphaera
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Luteimonas
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Oleibacter
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oleiphilaceae	Oleiphilus
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Beggiatoa
+"Proteobacteria"	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Anaplasma
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Parvimonas
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Mitsuaria
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Cryptobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Pelagibius
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Cryomorphaceae	Cryomorpha
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Steroidobacter
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella
+Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Alkalibaculum
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Celeribacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Salinispora
+"Aquificae"	Aquificae	Aquificales	Hydrogenothermaceae	Venenivibrio
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Allomonas
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Swaminathania
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Zunongwangia
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Oligotropha
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Rhodospira
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales		Neiella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Pandoraea
+"Armatimonadetes"	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	Fimbriimonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Bogoriellaceae	Georgenia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Pseudosporangium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Simplicispira
+"Verrucomicrobia"	Opitutae	Puniceicoccales	Puniceicoccaceae	Coraliomargarita
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Microvirga
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Fusobacteriaceae"	Psychrilyobacter
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Sterolibacterium
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Rummeliibacillus
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Polyangiaceae	Chondromyces
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylosoma
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Collinsella
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidomonas
+"Spirochaetes"	Spirochaetia	Spirochaetales	"Brevinemataceae"	Brevinema
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Aliivibrio
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Phycicoccus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Phytohabitans
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Modicisalibacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Formosa
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Zavarzinella
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halomicroarcula
+"Chloroflexi"	Caldilineae	Caldilineales	Caldilineaceae	Litorilinea
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Beijerinckia
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Tenuibacillus
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Chitinophaga
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Balneimonas
+"Actinobacteria"	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Metascardovia
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Tardiphaga
+Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Sporohalobacter
+"Thermotogae"	Thermotogae	Thermotogales	Thermotogaceae	Thermococcoides
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Poseidonocella
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Catellicoccus
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea
+"Deferribacteres"	Deferribacteres	Deferribacterales	Deferribacteraceae	Denitrovibrio
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Hahellaceae	Hahella
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Isosphaera
+"Proteobacteria"	Gammaproteobacteria	Legionellales	Coxiellaceae	Coxiella
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Telmatospirillum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Cryobacterium
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Cellvibrio
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Maritimibacter
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Jeongeupia
+Firmicutes	Clostridia	Clostridiales	Gracilibacteraceae	Lutispora
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Kriegella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Allocatelliglobosispora
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Primorskyibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Beutenbergiaceae	Miniimonas
+"Proteobacteria"	Betaproteobacteria	Ferrovales	Ferrovaceae	Ferrovum
+Cyanobacteria/Chloroplast	Cyanobacteria		Family VIII	GpVIII
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 1	Hazenella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Paucimonas
+"Actinobacteria"	Actinobacteria	Nitriliruptorales	Nitriliruptoraceae	Nitriliruptor
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylosphaera
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Uliginosibacterium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Glaciimonas
+"Planctomycetes"	Planctomycetia	Candidatus Brocadiales	Candidatus Brocadiaceae	Candidatus Anammoxoglobus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Limnobacter
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Histophilus
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Fulvimonas
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Aeribacillus
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"		Fodinibius
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Subsaxibacter
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Kordia
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Paludibacter
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 2	Aneurinibacillus
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Catenococcus
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Atopobacter
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Fusobacteriaceae"	Clostridium XIX
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Anderseniella
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfatibacillum
+"Thermotogae"	Thermotogae	Thermotogales	Thermotogaceae	Petrotoga
+"Aquificae"	Aquificae	Aquificales	Aquificaceae	Hydrogenobaculum
+candidate division ZB3				ZB3_genera_incertae_sedis
+"Bacteroidetes"	"Bacteroidetes"_incertae_sedis			Prolixibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Naxibacter
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylomarinum
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Algicola
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Propionicimonas
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Hydrotalea
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 1	Dehalobacter
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Gallibacterium
+"Actinobacteria"	Actinobacteria	Actinomycetales		Motilibacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Coenonia
+"Proteobacteria"	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Petrobacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Kinneretia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermacoccaceae	Branchiibius
+"Actinobacteria"	Actinobacteria	Actinomycetales	Beutenbergiaceae	Salana
+"Euryarchaeota"	"Methanomicrobia"	Methanomicrobiales	Methanoregulaceae	Methanosphaerula
+Firmicutes	Clostridia	Clostridiales	Incertae Sedis XI	Clostridium XII
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 1	Cohnella
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Bulleidia
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Melittangium
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Amaricoccus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Granulibacter
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Halonotius
+"Actinobacteria"	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Scardovia
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Woodsholea
+"Proteobacteria"	Alphaproteobacteria	Sneathiellales	Sneathiellaceae	Oceanibacterium
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Salinibacillus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodothalassium
+Parcubacteria				Parcubacteria_genera_incertae_sedis
+Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Macrococcus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Pseudoclavibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Ottowia
+"Chlorobi"	"Chlorobia"	Chlorobiales	Chlorobiaceae	Chlorobaculum
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Alteribacillus
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Atopobium
+"Verrucomicrobia"	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Prosthecobacter
+"Deinococcus-Thermus"	Deinococci	Deinococcales	Deinococcaceae	Deinobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Tranquillimonas
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Atopococcus
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Pectinatus
+"Verrucomicrobia"	Subdivision5			Subdivision5_genera_incertae_sedis
+Firmicutes	Clostridia	Halanaerobiales	Halanaerobiaceae	Halarsenatibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Corynebacterineae_incertae_sedis	Tomitella
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Eggerthia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Propionibacterium
+"Thermodesulfobacteria"	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Caldimicrobium
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Alloiococcus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Humihabitans
+Firmicutes	Bacilli	Bacillales	Bacillales_Incertae Sedis XI	Gemella
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Laribacter
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Centipeda
+Firmicutes	Bacilli	Bacillales	Bacillales_Incertae Sedis XII	Exiguobacterium
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Hahellaceae	Zooshikella
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Rahnella
+"Chlamydiae"	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydia
+"Fibrobacteres"	Chitinivibrionia	Chitinivibrionales	Chitinivibrionaceae	Chitinivibrio
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Catonella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Zeaxanthinibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Pseudacidovorax
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Soonwooa
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Methylarcula
+Firmicutes	Clostridia	Natranaerobiales	Natranaerobiaceae	Natronovirga
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Pseudogulbenkiania
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter
+Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Succiniclasticum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Labedaea
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Rhabdochromatium
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Ekhidna
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Granulicoccus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Parapusillimonas
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiracea_incertae_sedis
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Schlesneria
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Atopostipes
+Aigarchaeota				Candidatus Caldiarchaeum
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Marinilabiaceae"	Marinilabilia
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylopila
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Dinoroseobacter
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Formivibrio
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Prevotellaceae"	Xylanibacter
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Hymenobacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Persicivirga
+Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Alkalibacter
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Nubsella
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Marinilabiaceae"	Alkaliflexus
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Yokenella
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Ferrimonadaceae	Paraferrimonas
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Dyadobacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Thermomonosporaceae	Spirillospora
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Plantactinospora
+"Proteobacteria"	Betaproteobacteria	Nitrosomonadales	Spirillaceae	Spirillum
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidisphaera
+"Euryarchaeota"	"Methanomicrobia"	Methanosarcinales	Methanosarcinaceae	Methanimicrococcus
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azospira
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Afipia
+"Tenericutes"	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	Asteroleplasma
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Methylonatrum
+Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus
+"Proteobacteria"	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geopsychrobacter
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Saprospiraceae"	Haliscomenobacter
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Alkalimonas
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Arhodomonas
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Moritellaceae	Paramoritella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Actinoplanes
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Vulcanibacillus
+"Chloroflexi"	Ktedonobacteria	Ktedonobacterales	Thermosporotrichaceae	Thermosporothrix
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Zymophilus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales		Elioraea
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardioidaceae	Marmoricola
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halovibrio
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Propionimicrobium
+Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Oceaniserpentilla
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Rhodovibrio
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Herminiimonas
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Butyricicoccus
+Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Jeotgalicoccus
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Cryomorphaceae	Wandonia
+"Chloroflexi"	Ktedonobacteria	Thermogemmatisporales	Thermogemmatisporaceae	Thermogemmatispora
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cellulomonadaceae	Tropheryma
+"Chrysiogenetes"	Chrysiogenetes	Chrysiogenales	Chrysiogenaceae	Desulfurispira
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xylella
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halarchaeum
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum
+"Thermodesulfobacteria"	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermosulfurimonas
+"Proteobacteria"	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Smithella
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Solibacillus
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Paludibacterium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Rivibacter
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Arcicella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Streptosporangineae_incertae_sedis	Sinosporangium
+"Bacteroidetes"	Cytophagia	Cytophagales	Mooreiaceae	Mooreia
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Serpens
+"Spirochaetes"	Spirochaetia	Spirochaetales	Leptospiraceae	Leptonema
+Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Anaerofustis
+"Actinobacteria"	Actinobacteria	Actinomycetales	Jonesiaceae	Jonesia
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidicaldus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Rubritepida
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Cellulosibacter
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Finegoldia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Kocuria
+"Nanoarchaeota"				"Nanoarchaeum"
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Microterricola
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Tatumella
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Ectothiorhodosinus
+"Chlamydiae"	Chlamydiia	Chlamydiales	Parachlamydiaceae	Neochlamydia
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Nitrobacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylovirgula
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Rhodopila
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Mesoflavibacter
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfoconvexum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardioidaceae	Actinopolymorpha
+"Chlamydiae"	Chlamydiia	Chlamydiales	Parachlamydiaceae	Parachlamydia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Catenuloplanes
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Zoogloea
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Thermovum
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Hahellaceae	Halospina
+"Chloroflexi"	Anaerolineae	Anaerolineales	Anaerolineaceae	Longilinea
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 2	Ammoniphilus
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermanaeromonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Yonghaparkia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Humibacter
+"Actinobacteria"	Actinobacteria	Solirubrobacterales	Patulibacteraceae	Patulibacter
+Firmicutes	Clostridia	Clostridiales	Syntrophomonadaceae	Syntrophomonas
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	"Aurantimonadaceae"	Martelella
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Galenea
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Nicoletella
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Paraliobacillus
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Thorsellia
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Stakelama
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XII	Fusibacter
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Acetivibrio
+"Euryarchaeota"	Halobacteria	Natrialbales	Natrialbaceae	Natronobacterium
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Lacibacter
+"Acidobacteria"	Acidobacteria_Gp1			Candidatus Koribacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia
+Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Halobacteroides
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Chryseoglobus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Mameliella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Rugamonas
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Pasteurella
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Odoribacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Salinarimonas
+"Proteobacteria"	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae	Desulfosoma
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pelagimonas
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 3	Clostridiisalibacter
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Methyloversatilis
+Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Butyricimonas
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Wenxinia
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseibaca
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Celerinatantimonadaceae	Celerinatantimonas
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Filibacter
+"Crenarchaeota"	Thermoprotei	Desulfurococcales	Pyrodictiaceae	Hyperthermus
+Cloacimonetes				Candidatus Cloacamonas
+Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Globicatella
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Pedobacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermabacteraceae	Helcobacillus
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Methylohalomonas
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Proteiniclasticum
+"Chloroflexi"	Thermoflexia	Thermoflexales	Thermoflexaceae	Thermoflexus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Promicromonosporaceae	Xylanibacterium
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Kosakonia
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Alysiella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Ramlibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Fodinibacter
+"Proteobacteria"	Gammaproteobacteria	Acidithiobacillales	Thermithiobacillaceae	Thermithiobacillus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	"Aurantimonadaceae"	Fulvimarina
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Propionispira
+"Actinobacteria"	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Ferrithrix
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium
+Ignavibacteriae	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae	Ignavibacterium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Beutenbergiaceae	Beutenbergia
+"Proteobacteria"	Epsilonproteobacteria	Nautiliales	Nautiliaceae	Nitratifractor
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thioalkalicoccus
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Stigmatella
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Synergistes
+"Actinobacteria"	Actinobacteria	Actinomycetales	Promicromonosporaceae	Xylanimonas
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 3	Caloranaerobacter
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Thioprofundum
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Bermanella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Agreia
+"Proteobacteria"	Betaproteobacteria	"Procabacteriales"	"Procabacteriaceae"	Candidatus Procabacter
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillales_incertae_sedis	Spongiispira
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Antarctobacter
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Paucisalibacillus
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Buchnera
+"Tenericutes"	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Citrobacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Gaetbulicola
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermacoccaceae	Luteipulveratus
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Bacteroidales"_incertae_sedis	Phocaeicola
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Psychroserpens
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Aureitalea
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Reichenbachiella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Crossiella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Pibocella
+Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Domibacillus
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Muriicola
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Azovibrio
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardioidaceae	Flindersiella
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Conchiformibius
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Micropruina
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Williamsia
+"Crenarchaeota"	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Thermodiscus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Promicromonosporaceae	Xylanimicrobium
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Limibacter
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Kluyvera
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Leclercia
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Chromohalobacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Terasakiella
+"Crenarchaeota"	Thermoprotei	Sulfolobales	Sulfolobaceae	Stygiolobus
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Barnesiella
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Thermobrachium
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Biostraticola
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Marixanthomonas
+"Deinococcus-Thermus"	Deinococci	Deinococcales	Deinococcaceae	Deinococcus
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Ruminococcus2
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Trabulsiella
+"Verrucomicrobia"	Subdivision3			Subdivision3_genera_incertae_sedis
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Pseudorhodoferax
+Cyanobacteria/Chloroplast	Chloroplast		Chloroplast	Euglenida
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Homoserinimonas
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Alcaligenes
+"Proteobacteria"	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Arcobacter
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XII	Guggenheimella
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Fusobacteriaceae"	Cetobacterium
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Salsuginibacillus
+"Tenericutes"	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	Anaeroplasma
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Halopelagius
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rudaea
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodoblastus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Gulosibacter
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Gelria
+Firmicutes	Clostridia	Clostridiales	Defluviitaleaceae	Defluviitalea
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ahrensia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Maritimimonas
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Cryomorphaceae	Crocinitomix
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Rhodomicrobium
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnobacterium
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Tepidimicrobium
+Aenigmarchaeota				Candidatus Aenigmarchaeum
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Hyalangium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Oryzihumus
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas
+"Aquificae"	Aquificae	Desulfurobacteriales	Desulfurobacteriaceae	Balnearium
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Haematobacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Ornithobacterium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cellulomonadaceae	Actinotalea
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Aestuariicola
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Prevotellaceae"	Hallella
+"Actinobacteria"	Actinobacteria	Acidimicrobiales	Iamiaceae	Iamia
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Rhodothermaceae"	Salisaeta
+"Proteobacteria"	Epsilonproteobacteria	Nautiliales	Nautiliaceae	Lebetimonas
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Pseudospirillum
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Paenalcaligenes
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Flaviramulus
+Firmicutes	Clostridia	Clostridiales	Heliobacteriaceae	Heliobacillus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Jiangellaceae	Haloactinopolyspora
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Lechevalieria
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Pseudomonadales_incertae_sedis	Dasania
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Isochromatium
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Prevotellaceae"	Paraprevotella
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Natronocella
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Sediminibacterium
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Zobellella
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sandaracinobacter
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Saccharococcus
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Leptotrichiaceae"	Leptotrichia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cryptosporangiaceae	Cryptosporangium
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Falsibacillus
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 4	Caminicella
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfospira
+"Actinobacteria"	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermacoccaceae	Demetria
+"Aquificae"	Aquificae	Aquificales	Aquificaceae	Hydrogenobacter
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Sodalis
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halorubellus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Roseateles
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Capnocytophaga
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Rudanella
+Atribacteria				Atribacteria_genera_incertae_sedis
+"Proteobacteria"	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Desulfobacca
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Blastomonas
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Seohaeicola
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Sciscionella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Microcella
+"Actinobacteria"	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Parascardovia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Gangjinia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermacoccaceae	Yimella
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Sulfurivirga
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Belnapia
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Hydrogenovibrio
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Caenimonas
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Limimonas
+"Deferribacteres"	Deferribacteres	Deferribacterales	Deferribacteraceae	Calditerrivibrio
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 1	Fontibacillus
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Prevotellaceae"	Alloprevotella
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Brenneria
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Parabacteroides
+"Proteobacteria"	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio
+Firmicutes	Bacilli	Bacillales	Bacillales_Incertae Sedis X	Thermicanus
+"Deinococcus-Thermus"	Deinococci	Thermales	Thermaceae	Vulcanithermus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Streptosporangiaceae	Thermocatellispora
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Geomicrobium
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Inquilinus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Kineosporiaceae	Angustibacter
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylohalobius
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Macromonas
+"Proteobacteria"	Gammaproteobacteria			Halioglobus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea
+"Elusimicrobia"	Endomicrobia			Candidatus Endomicrobium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Alicycliphilus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Smaragdicoccus
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis III	Thermovenabulum
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Marinicella
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Agaricicola
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Oceanobacillus
+"Verrucomicrobia"	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Roseimicrobium
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halomarina
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Labedella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Frigoribacterium
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Thiohalophilus
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Halothiobacillaceae	Thioalkalibacter
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Acidiferrobacter
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Thiohalomonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cellulomonadaceae	Oerskovia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Yuhushiella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Croceibacter
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Eggerthella
+"Crenarchaeota"	Thermoprotei	Desulfurococcales	Pyrodictiaceae	Pyrolobus
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Nonlabens
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Propionicicella
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Saliterribacillus
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Salmonella
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfatitalea
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Psychrosphaera
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Coriobacterium
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Lutimonas
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sandarakinorhabdus
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 1	Brevibacillus
+Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Ignavigranum
+"Proteobacteria"	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Dichelobacter
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 1	Paenibacillus
+Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Halanaerobaculum
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Anaerovibrio
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Kurthia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Promicromonosporaceae	Cellulosimicrobium
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Fusobacteriaceae"	Fusobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Palleronia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Herbiconiux
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia
+"Acidobacteria"	Holophagae	Acanthopleuribacterales	Acanthopleuribacteraceae	Acanthopleuribacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Gordonia
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Diaphorobacter
+"Chrysiogenetes"	Chrysiogenetes	Chrysiogenales	Chrysiogenaceae	Chrysiogenes
+"Proteobacteria"	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae	Thermodesulforhabdus
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Thermovirga
+"Thermotogae"	Thermotogae	Thermotogales	Thermotogaceae	Fervidobacterium
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 1	Desulfitibacter
+Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Eudoraea
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Allisonella
+"Acidobacteria"	Acidobacteria_Gp1			Acidobacterium
+Firmicutes	Clostridia	Halanaerobiales	Halanaerobiaceae	Halocella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Huaishuia
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 3	Sporosalibacterium
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Schwartzia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Fulvibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Nocardia
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Vitreoscilla
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Cyclobacteriaceae"	Fontibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Demequinaceae	Lysinimicrobium
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	"Aurantimonadaceae"	Aurantimonas
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Zymomonas
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Rhodocista
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Leeia
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Blastobacter
+Candidatus Calescamantes				Candidatus Calescibacterium
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Bibersteinia
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Clostridium XVIII
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Kozakia
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Hasllibacter
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Lucibacterium
+"Tenericutes"	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Entomoplasma
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sediminimonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Alloactinosynnema
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Oceanibulbus
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Pisciglobus
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Parasporobacterium
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiophaeococcus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermabacteraceae	Brachybacterium
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubrimonas
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Chromatium
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Singulisphaera
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Flagellimonas
+"Proteobacteria"	Alphaproteobacteria	Magnetococcales	Magnetococcaceae	Magnetococcus
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Salirhabdus
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Fulvivirga
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halosimplex
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Anaerobacillus
+"Caldiserica"	Caldisericia	Caldisericales	Caldisericaceae	Caldisericum
+"Proteobacteria"	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Succinatimonas
+"Proteobacteria"	Deltaproteobacteria		Syntrophorhabdaceae	Syntrophorhabdus
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Allofustis
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Asanoa
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Budvicia
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halorientalis
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Pseudonocardia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cellulomonadaceae	Sediminihabitans
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Thiotrichales_incertae_sedis	Caedibacter
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Thalassolituus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Curtobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Insolitispirillum
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Cloacibacillus
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Phaselicystidaceae	Phaselicystis
+"Spirochaetes"	Spirochaetia	Spirochaetales	Spirochaetales_incertae_sedis	Exilispira
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Salinirubrum
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Escherichia/Shigella
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Cycloclasticus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Neoasaia
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Cyclobacteriaceae"	Mongoliitalea
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Hydrogenoanaerobacterium
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Anaeromusa
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Elizabethkingia
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Hespellia
+Cyanobacteria/Chloroplast	Chloroplast		Chloroplast	Chlorarachniophyceae
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubribacterium
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Neokomagataea
+"Proteobacteria"	Gammaproteobacteria	Legionellales	Coxiellaceae	Diplorickettsia
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium III
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Porphyromonas
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Rhodobium
+Diapherotrites				Candidatus Iainarchaeum
+Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Succinispira
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Pilimelia
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Myxococcaceae	Myxococcus
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Alkanibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Derxia
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Samsonia
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Pelomonas
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalobacter
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Succinivibrio
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Aquaspirillum
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 2	Desulfurispora
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Brucellaceae	Pseudochrobactrum
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter
+"Chloroflexi"	Thermomicrobia	Thermomicrobiales	Thermomicrobiaceae	Thermomicrobium
+"Actinobacteria"	Actinobacteria	Rubrobacterales	Rubrobacteraceae	Rubrobacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus
+Firmicutes	Clostridia	Clostridiales	Incertae Sedis XI	Dethiosulfatibacter
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Mangrovibacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	"Aurantimonadaceae"	Aureimonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Planosporangium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Micropolyspora
+Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Cyclobacteriaceae"	Indibacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Stenothermobacter
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Natronoarchaeum
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Geodermatophilaceae	Modestobacter
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythromicrobium
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Epilithonimonas
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Olivibacter
+"Chloroflexi"	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalococcoides
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Rhodoglobus
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Leptobacterium
+"Proteobacteria"	Gammaproteobacteria			Zhongshania
+Parvarchaeota				Candidatus Parvarchaeum
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Aureibacter
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Thiorhodospira
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Buttiauxella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiopsaceae	Spinactinospora
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Verrucosispora
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 1	Shimazuella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Kerstersia
+Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Pseudoramibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Intrasporangium
+"Crenarchaeota"	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Thermosphaera
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfofustis
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas
+"Euryarchaeota"	"Methanomicrobia"	Methanomicrobiales	Methanoregulaceae	Methanolinea
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pacificibacter
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis IV	Mahella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Riemerella
+"Proteobacteria"	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Neorickettsia
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia
+"Proteobacteria"	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Vampirovibrio
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Leminorella
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Polyangiaceae	Sorangium
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Cerasibacillus
+"Euryarchaeota"	Thermoplasmata	Methanomassiliicoccales	Methanomassiliicoccaceae	Methanomassiliicoccus
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Salarchaeum
+Woesearchaeota				Woesearchaeota Incertae Sedis AR20
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Chromobacterium
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Petrimonas
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 2	Oxalophagus
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Aminobacterium
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Thiotrichales_incertae_sedis	Fangia
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Serratia
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Phyllobacterium
+"Proteobacteria"	Betaproteobacteria	Methylophilales	Methylophilaceae	Methylotenera
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Hafnia
+Woesearchaeota				Woesearchaeota Incertae Sedis AR15
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Umboniibacter
+"Chloroflexi"	Anaerolineae	Anaerolineales	Anaerolineaceae	Bellilinea
+Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Pilibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Albidiferax
+"Planctomycetes"	Planctomycetia	Candidatus Brocadiales	Candidatus Brocadiaceae	Candidatus Kuenenia
+Woesearchaeota				Woesearchaeota Incertae Sedis AR18
+"Synergistetes"	Synergistia	Synergistales	Synergistaceae	Pyramidobacter
+Woesearchaeota				Woesearchaeota Incertae Sedis AR16
+Woesearchaeota				Woesearchaeota Incertae Sedis AR17
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Tropicibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermatophilaceae	Austwickia
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Thiohalorhabdus
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Dolosigranulum
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Thiohalobacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Hyunsoonleella
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Thioalkalispira
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Corallomonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Kineosporiaceae	Kineococcus
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Persicitalea
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Ruminobacter
+"Verrucomicrobia"	Opitutae	Puniceicoccales	Puniceicoccaceae	Puniceicoccus
+Cyanobacteria/Chloroplast	Chloroplast		Chloroplast	Bangiophyceae
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Cronobacter
+"Proteobacteria"	Gammaproteobacteria	Orbales	Orbaceae	Orbus
+"Proteobacteria"	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Dehalospirillum
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Sharpea
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Asaccharobacter
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Thermonema
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Filomicrobium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Pelistega
+"Chloroflexi"	"Dehalococcoidetes"			Dehalogenimonas
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Brucellaceae	Paenochrobactrum
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Sporolituus
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Afifella
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Yangia
+Cyanobacteria/Chloroplast	Chloroplast		Chloroplast	Bacillariophyta
+Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Tumebacillus
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Salinibacterium
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Lonsdalea
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Nereida
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Aquisalimonas
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Desertibacter
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Virgibacillus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylosinus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Pleomorphomonas
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Sedimentibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Marisediminicola
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Rugosimonospora
+"Actinobacteria"	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinobaculum
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylocystis
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Cedecea
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 1	Desulfonispora
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dendrosporobacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Litorimicrobium
+"Proteobacteria"	Deltaproteobacteria	Desulfarculales	Desulfarculaceae	Desulfarculus
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 1	Lihuaxuella
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pseudorhodobacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiopsaceae	Marinactinospora
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Georgfuchsia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Jejuia
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Terribacillus
+Pacearchaeota				Pacearchaeota Incertae Sedis AR13
+"Proteobacteria"	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Tepidiphilus
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Aquitalea
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Allokutzneria
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Pluralibacter
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Dyella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Planobacterium
+"Proteobacteria"	"Zetaproteobacteria"	"Mariprofundales"	"Mariprofundaceae"	Mariprofundus
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Marinilactibacillus
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Aspromonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermabacteraceae	Devriesea
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfatiferula
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Yersinia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XIII	Mogibacterium
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 1	Syntrophobotulus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Catellibacterium
+"Crenarchaeota"	Thermoprotei	Acidilobales	Acidilobaceae	Acidilobus
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Meridianimaribacter
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Flavitalea
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Anaeromyxobacter
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Alkalibacterium
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Filobacillus
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 2	Alkaliphilus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermatophilaceae	Dermatophilus
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Nannocystaceae	Plesiocystis
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Croceicoccus
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Adlercreutzia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Empedobacter
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Pullulanibacillus
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Halothiobacillaceae	Thiofaba
+"Proteobacteria"	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Sulfuricella
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Porticoccus
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerofilum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Phytomonospora
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Bacillus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Salinihabitans
+"Euryarchaeota"	Methanococci	Methanococcales	Methanococcaceae	Methanothermococcus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Glaciibacter
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 2	Polycladomyces
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Gemmiger
+"Proteobacteria"	Deltaproteobacteria	Desulfuromonadales	Geobacteraceae	Geothermobacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Leucobacter
+Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Melissococcus
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Sphingobacterium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Schumannella
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Enterorhabdus
+"Proteobacteria"	Deltaproteobacteria	Desulfovibrionales	Desulfohalobiaceae	Desulfonauticus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Brucellaceae	Ochrobactrum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium
+"Crenarchaeota"	Thermoprotei	Thermoproteales	Thermoproteaceae	Thermoproteus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Herbaspirillum
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Providencia
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	Marinilabiliaceae	Alkalitalea
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Micrococcus
+"Proteobacteria"	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Bacteriovorax
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Microvirgula
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Plesiomonas
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Tepidimonas
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Salipiger
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcineae_incertae_sedis	Luteimicrobium
+Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Halonatronum
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Singularimonas
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax
+"Actinobacteria"	Actinobacteria	Gaiellales	Gaiellaceae	Gaiella
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Gracilimonas
+Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Dolosicoccus
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 2	Natronincola
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Robiginitomaculum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Friedmanniella
+"Proteobacteria"	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Piscirickettsia
+"Proteobacteria"	Alphaproteobacteria	Alphaproteobacteria_incertae_sedis		Rhizomicrobium
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhizobiales_incertae_sedis	Vasilyevaea
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Cyclobacteriaceae"	Cecembia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Lutaonella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Citricoccus
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermodesulfobiaceae	Coprothermobacter
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Tuberibacillus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Nesiotobacter
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Caloribacterium
+Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Acetohalobium
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Actibacter
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Flexibacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pannonibacter
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Prevotellaceae"	Prevotella
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Lacticigenium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Lapillicoccus
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Pragia
+"Verrucomicrobia"	Opitutae	Puniceicoccales	Puniceicoccaceae	Cerasicoccus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiopsaceae	Murinocardiopsis
+"Proteobacteria"	Gammaproteobacteria	"Vibrionales"	Vibrionaceae	Listonella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Plantibacter
+"Proteobacteria"	Gammaproteobacteria	Orbales	Orbaceae	Frischella
+"Bacteroidetes"	Cytophagia	Cytophagales		Luteivirga
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Cellulosilyticum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Renibacterium
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Caryophanon
+"Spirochaetes"	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermacoccaceae	Kytococcus
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 1	Thermoflavimicrobium
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Jeotgalibacillus
+"Verrucomicrobia"	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Verrucomicrobium
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Phaeovibrio
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	"Psychrosinus"
+Firmicutes	Clostridia	Clostridiales	Syntrophomonadaceae	Syntrophothermus
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Raoultella
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Marinospirillum
+"Proteobacteria"	Betaproteobacteria	Ferritrophicales	Ferritrophicaceae	Ferritrophicum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Clavibacter
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Ponticaulis
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Mannheimia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Leifsonia
+"Chrysiogenetes"	Chrysiogenetes	Chrysiogenales	Chrysiogenaceae	Desulfurispirillum
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Kineosporiaceae	Quadrisphaera
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Dongia
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Filimonas
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudofulvimonas
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Sinobaca
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Clostridium XI
+"Actinobacteria"	Actinobacteria	Actinomycetales	Ruaniaceae	Ruania
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Anaeroarcus
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Solitalea
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 2	Anaerovirgula
+"Dictyoglomi"	"Dictyoglomia"	"Dictyoglomales"	"Dictyoglomaceae"	Dictyoglomus
+"Gemmatimonadetes"	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatimonas
+"Deinococcus-Thermus"	Deinococci	Deinococcales	Trueperaceae	Truepera
+Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Tetragenococcus
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Cocleimonas
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Perexilibacter
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Pseudobutyrivibrio
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Myroides
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Longispora
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Shimwellia
+Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Bavariicoccus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albimonas
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Segetibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Promicromonosporaceae	Myceligenerans
+Omnitrophica				Omnitrophica_genera_incertae_sedis
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 2	Seinonella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium
+"Actinobacteria"	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Alloscardovia
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Zymobacter
+"Actinobacteria"	Thermoleophilia	Thermoleophilales	Thermoleophilaceae	Thermoleophilum
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Anaerosporobacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Rhodococcus
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium IV
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Hahellaceae	Kistimonas
+"Elusimicrobia"	Elusimicrobia	Elusimicrobiales	Elusimicrobiaceae	Elusimicrobium
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Sediminicola
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Dickeya
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Erwinia
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella
+"Acidobacteria"	Acidobacteria_Gp3			Candidatus Solibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Malikia
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Cruoricaptor
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Terracoccus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Marinovum
+Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Garciella
+"Thaumarchaeota"		Nitrososphaerales	Nitrososphaeraceae	Nitrososphaera
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Tepidibacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Gaetbulimicrobium
+"Euryarchaeota"	"Methanomicrobia"	Methanosarcinales	Methanosarcinaceae	Methanohalobium
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Arenicella
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Pontibacillus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Stappia
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Peptoniphilus
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Negativicoccus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Lampropedia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Oxobacter
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Quatrionicoccus
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Bergeriella
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiobaca
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Actinobacillus
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Anaerobiospirillum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Brevibacteriaceae	Brevibacterium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cellulomonadaceae	Paraoerskovia
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Rhodopseudomonas
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 4	Thermotalea
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Bhargavaea
+Microgenomates				Microgenomates_genera_incertae_sedis
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Iodobacter
+candidate division WPS-2				WPS-2_genera_incertae_sedis
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Phaseolibacter
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Saprospiraceae"	Aureispira
+Firmicutes	Clostridia	Clostridiales	Incertae Sedis III	Fervidicola
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Agrococcus
+Nitrospirae	"Nitrospira"	"Nitrospirales"	"Nitrospiraceae"	Nitrospira
+Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Halanaerobacter
+"Proteobacteria"	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Hydrogenophilus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Saccharibacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter
+"Proteobacteria"	Gammaproteobacteria	Orbales	Orbaceae	Gilliamella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardioidaceae	Pimelobacter
+"Chloroflexi"	Caldilineae	Caldilineales	Caldilineaceae	Caldilinea
+"Actinobacteria"	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseomonas
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Rhodovarius
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Flavobacterium
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Sporocytophaga
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Leptotrichiaceae"	Sneathia
+"Spirochaetes"	Spirochaetia	Spirochaetales	Leptospiraceae	Turneriella
+"Euryarchaeota"	Thermoplasmata	Thermoplasmatales	Ferroplasmaceae	Ferroplasma
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiococcus
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XIII	Anaerovorax
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Paenisporosarcina
+"Proteobacteria"	Alphaproteobacteria	Kiloniellales	Kiloniellaceae	Kiloniella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Catelliglobosispora
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Eionea
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Brachymonas
+Cyanobacteria/Chloroplast	Cyanobacteria		Family I	GpI
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Pseudozobellia
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Aminobacter
+Cyanobacteria/Chloroplast	Cyanobacteria		Family X	GpX
+"Planctomycetes"	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Phycisphaera
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Tepidicella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Phycicola
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Camelimonas
+"Proteobacteria"	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Peredibacter
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Proteocatella
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Acetonema
+"Acidobacteria"	Acidobacteria_Gp5			Gp5
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Sandarakinotalea
+"Acidobacteria"	Acidobacteria_Gp3			Gp3
+"Acidobacteria"	Acidobacteria_Gp4			Gp4
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Acaricomes
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Gemmata
+"Acidobacteria"	Acidobacteria_Gp9			Gp9
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Tetrasphaera
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Oribacterium
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Halosarcina
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfosalsimonas
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Salinimonas
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Litoribacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassococcus
+"Chloroflexi"	Anaerolineae	Anaerolineales	Anaerolineaceae	Levilinea
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Anaerobacter
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Fastidiosipila
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Oleispira
+Firmicutes	Clostridia	Clostridiales	Gracilibacteraceae	Gracilibacter
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Aquimonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Aestuariimicrobium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Curvibacter
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Paracraurococcus
+"Spirochaetes"	Spirochaetia	Spirochaetales	Spirochaetaceae	Sphaerochaeta
+"Euryarchaeota"	"Methanomicrobia"	Methanosarcinales	Methanosarcinaceae	Methanosalsum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermacoccaceae	Rudaeicoccus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseococcus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Wautersia
+"Chloroflexi"	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolinea
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Gluconobacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Krasilnikovia
+Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Phascolarctobacterium
+"Verrucomicrobia"	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Mycobacteriaceae	Amycolicicoccus
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Sporobacter
+"Euryarchaeota"	Methanopyri	Methanopyrales	Methanopyraceae	Methanopyrus
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfobulbus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Actinaurispora
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Sediminibacillus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Aquabacterium
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Myxococcaceae	Corallococcus
+"Actinobacteria"	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Acidimicrobium
+"Actinobacteria"	Actinobacteria	Acidimicrobiales	"Acidimicrobineae"_incertae_sedis	Aciditerrimonas
+"Proteobacteria"	Alphaproteobacteria		SAR11	Candidatus Pelagibacter
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Geobacillus
+Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Acetobacterium
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfofrigus
+"Thermodesulfobacteria"	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermodesulfatator
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Stella
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halotalea
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Aquabacter
+Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	"Saccharospirillaceae"	Saccharospirillum
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Giesbergeria
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Auritidibacter
+"Crenarchaeota"	Thermoprotei	Thermoproteales	Thermoproteaceae	Thermocladium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Microlunatus
+"Proteobacteria"	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfocurvus
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Saccharophagus
+Firmicutes	Clostridia	Natranaerobiales	Natranaerobiaceae	Dethiobacter
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Klebsiella
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azotobacter
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	"Anaerospora"
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Robinsoniella
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylocella
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Anaerococcus
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	"Desulfosporomusa"
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Marvinbryantia
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Salinicola
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Albibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Schlegelella
+Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactovum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Knoellia
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax
+"Proteobacteria"	Epsilonproteobacteria	Nautiliales	Nautiliaceae	Nitratiruptor
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Rapidithrix
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Olsenella
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Gemmobacter
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Pricia
+Marinimicrobia				Marinimicrobia_genera_incertae_sedis
+"Chloroflexi"	Chloroflexia	"Chloroflexales"	Chloroflexaceae	Heliothrix
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Hamadaea
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Anaeroglobus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Frondihabitans
+"Thermotogae"	Thermotogae	Thermotogales	Thermotogaceae	Geotoga
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Meganema
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Flavisolibacter
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Pantoea
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Halovenus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Compostimonas
+Nanohaloarchaeota	Nanohaloarchaea			Candidatus Haloredivivus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardioidaceae	Thermasporomyces
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Ornithinibacillus
+"Proteobacteria"	Epsilonproteobacteria	Nautiliales	Nautiliaceae	Thioreductor
+Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Desemzia
+"Chlorobi"	"Chlorobia"	Chlorobiales	Chlorobiaceae	Prosthecochloris
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Cosenzaea
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thioflavicoccus
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Alkanindiges
+"Aquificae"	Aquificae	Aquificales	Aquificaceae	Hydrogenivirga
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylococcus
+"Proteobacteria"	Gammaproteobacteria			Candidatus Carsonella
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Alteromonadales_incertae_sedis	Teredinibacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Brucellaceae	Mycoplana
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Cryomorphaceae	Owenweeksia
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Cobetia
+"Acidobacteria"	Acidobacteria_Gp1			Bryocella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Umezawaea
+"Proteobacteria"	Betaproteobacteria			Chitinivorax
+"Crenarchaeota"	Thermoprotei	Thermoproteales	Thermofilaceae	Thermofilum
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Soehngenia
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Chitinophagaceae	Flavihumibacter
+"Actinobacteria"	Actinobacteria	Actinomycetales	Rarobacteraceae	Rarobacter
+Firmicutes	Bacilli	Bacillales	Bacillales_incertae_sedis	Microaerobacter
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Johnsonella
+"Acidobacteria"	Holophagae	Holophagales	Holophagaceae	Holophaga
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Nautella
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Shuttleworthia
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum
+Cyanobacteria/Chloroplast	Cyanobacteria		Family IV	GpIV
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Cyclobacteriaceae"	Nitritalea
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Mitsuokella
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Acetoanaerobium
+Firmicutes	Clostridia	Clostridiales	Syntrophomonadaceae	Pelospora
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Nannocystaceae	Pseudenhygromyxa
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Amphibacillus
+"Lentisphaerae"	Oligosphaeria	Oligosphaerales	Oligosphaeraceae	Oligosphaera
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylothermus
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Citreimonas
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Rhodocytophaga
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Rhodonellum
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Cloacibacterium
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus
+"Proteobacteria"	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Sulfurovum
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pelagicola
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Otariodibacter
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseibacterium
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Tannerella
+Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Kyrpidia
+"Aquificae"	Aquificae	Aquificales	Aquificales_incertae_sedis	Thermosulfidibacter
+"Proteobacteria"	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Lawsonia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cryptosporangiaceae	Fodinicola
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcaceae_incertae_sedis
+Acetothermia				Acetothermia_genera_incertae_sedis
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium
+Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Nosocomiicoccus
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Sediminitomix
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Amnibacterium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Oxalicibacterium
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Gibbsiella
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Microscilla
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Kandleria
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Propionispora
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Aquincola
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 1	Peptococcus
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Uruburuella
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ponticoccus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Magnetospira
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Wautersiella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Haloechinothrix
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Yeosuana
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Moryella
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	Marinilabiliaceae	Thermophagus
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Fusobacteriaceae"	Propionigenium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Humibacillus
+"Actinobacteria"	Actinobacteria	Solirubrobacterales	Conexibacteraceae	Conexibacter
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Catenibacterium
+"Proteobacteria"	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Methylorhabdus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Thiobacter
+"Fusobacteria"	Fusobacteriia	"Fusobacteriales"	"Leptotrichiaceae"	Sebaldella
+"Proteobacteria"	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Succinimonas
+"Acidobacteria"	Acidobacteria_Gp1			Acidipila
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Maritalea
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Sporobacterium
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Nitrincola
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Luedemannella
+"Chloroflexi"	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Ktedonobacter
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Planctomyces
+"Bacteroidetes"	"Bacteroidetes"_incertae_sedis			Marinifilum
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Thioalbus
+Firmicutes	Clostridia	Halanaerobiales	Halanaerobiaceae	Halothermothrix
+"Actinobacteria"	Actinobacteria	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Haloquadratum
+"Proteobacteria"	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Megamonas
+"Chlamydiae"	Chlamydiia	Chlamydiales	Simkaniaceae	Simkania
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Chitiniphilus
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Aquisphaera
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Gilvimarinus
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Shinella
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thermochromatium
+"Actinobacteria"	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Zhouia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermatophilaceae	Mobilicoccus
+"Bacteroidetes"	Cytophagia	Cytophagales	Flammeovirgaceae	Fabibacter
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Inhella
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Carnimonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Streptosporangiaceae	Thermopolyspora
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Bergeyella
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Syntrophaceticus
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis III	Tepidanaerobacter
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Piscibacillus
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylovulum
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Chelonobacter
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Pseudosphingobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Chelatococcus
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium
+"Proteobacteria"	Alphaproteobacteria	"Parvularculales"	"Parvularculaceae"	Parvularcula
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudoxanthobacter
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Gallaecimonas
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Selenomonas
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Denitrobacterium
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Marispirillum
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_incertae_sedis
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Aestuariibaculum
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Ameyamaea
+"Verrucomicrobia"	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Persicirhabdus
+"Proteobacteria"	Alphaproteobacteria	Alphaproteobacteria_incertae_sedis		Breoghania
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Allobaculum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Marihabitans
+"Chlamydiae"	Chlamydiia	Chlamydiales	Waddliaceae	Waddlia
+candidate division WPS-1				WPS-1_genera_incertae_sedis
+"Crenarchaeota"	Thermoprotei	Acidilobales	Caldisphaeraceae	Caldisphaera
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thioclava
+"Crenarchaeota"	Thermoprotei	Fervidicoccales	Fervidicoccaceae	Fervidicoccus
+"Proteobacteria"	Deltaproteobacteria	Desulfurellales	Desulfurellaceae	Hippea
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Halothiobacillaceae	Thiovirga
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Polymorphospora
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Fervidicella
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Euzebyella
+"Acidobacteria"	Acidobacteria_Gp19			Gp19
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Arsenicicoccus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Zhihengliuella
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	Sphingobacteriaceae	Arcticibacter
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azomonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermatophilaceae	Kineosphaera
+"Acidobacteria"	Acidobacteria_Gp15			Gp15
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Zhangella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Methylibium
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae	Nitrococcus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micrococcaceae	Sinomonas
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Virgisporangium
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hellea
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiorhodovibrio
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Pseudaminobacter
+"Crenarchaeota"	Thermoprotei	Thermoproteales	Thermoproteaceae	Caldivirga
+Firmicutes	Clostridia	Clostridiales	Incertae Sedis III	Caldanaerovirga
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Galbibacter
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Defluviicoccus
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Asticcacaulis
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Proteus
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Phocoenobacter
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Paraperlucidibaca
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Mycetocola
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flavonifractor
+Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Acetitomaculum
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Arsenophonus
+Firmicutes	Bacilli	Bacillales	Paenibacillaceae 1	Thermobacillus
+"Euryarchaeota"	Archaeoglobi	Archaeoglobales	Archaeoglobaceae	Ferroglobus
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Constrictibacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Roseospirillum
+"Euryarchaeota"	Halobacteria	Haloferacales	Haloferacaceae	Salinigranum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Micromonospora
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Streptohalobacillus
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Chryseomicrobium
+Firmicutes	Clostridia	Clostridiales		Natranaerovirga
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Archangium
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Xylophilus
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Thermomonas
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Pirellula
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiaceae	Millisia
+"Actinobacteria"	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Porphyromonadaceae"	Proteiniphilum
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Cyclobacteriaceae"	Aquiflexum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Lentzea
+"Actinobacteria"	Actinobacteria	Actinomycetales	Corynebacterineae_incertae_sedis	Hoyosella
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	Bacteroidaceae	Bacteroides
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Cucumibacter
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Myxococcaceae	Angiococcus
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Basfia
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Jhaorihella
+"Proteobacteria"	Gammaproteobacteria	Legionellales	Coxiellaceae	Aquicella
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Aquisalibacillus
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Sulfuritalea
+"Proteobacteria"	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Orientia
+Firmicutes	Bacilli	Bacillales	Planococcaceae	Planococcaceae_incertae_sedis
+"Proteobacteria"	Betaproteobacteria	Methylophilales	Methylophilaceae	Methylobacillus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Duganella
+"Proteobacteria"	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Catenovulum
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Litorisediminicola
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Aquamicrobium
+"Deinococcus-Thermus"	Deinococci	Thermales	Thermaceae	Rhabdothermus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Nocardiopsaceae	Haloactinospora
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Polyangiaceae	Jahnella
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Vadicella
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Craurococcus
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Edwardsiella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Spirilliplanes
+Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Pelosinus
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas
+Cyanobacteria/Chloroplast	Chloroplast		Chloroplast	Cryptomonadaceae
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Stenoxybacter
+"Proteobacteria"	Deltaproteobacteria	Myxococcales	Nannocystaceae	Enhygromyxa
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Morganella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Brooklawnia
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	"Marinilabiaceae"	Anaerophaga
+"Proteobacteria"	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae	Desulfovirga
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Corallibacter
+"Proteobacteria"	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylogaea
+"Bacteroidetes"	"Bacteroidia"	"Bacteroidales"	Marinilabiliaceae	Mangroviflexus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Brucellaceae	Daeguia
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Natronobacillus
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Thiolamprovum
+"Proteobacteria"	Betaproteobacteria	Neisseriales	Neisseriaceae	Simonsiella
+"Chloroflexi"	Chloroflexia	"Chloroflexales"	Chloroflexaceae	Roseiflexus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pelagibacterium
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Enterobacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Lutibaculum
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dermabacteraceae	Dermabacter
+"Proteobacteria"	Gammaproteobacteria	"Enterobacteriales"	Enterobacteriaceae	Pectobacterium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Actinosynnema
+"Actinobacteria"	Actinobacteria	Actinomycetales	Streptosporangiaceae	Planobispora
+"Actinobacteria"	Actinobacteria	Actinomycetales	Beutenbergiaceae	Serinibacter
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Papillibacter
+"Aquificae"	Aquificae	Aquificales	Aquificaceae	Aquifex
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Jishengella
+"Tenericutes"	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma
+"Acidobacteria"	Acidobacteria_Gp3			Bryobacter
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XI	Gallicola
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Olleya
+"Thermotogae"	Thermotogae	Thermotogales	Thermotogaceae	Kosmotoga
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Ferribacterium
+"Proteobacteria"	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Marinicauda
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Humitalea
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Actinophytocola
+"Actinobacteria"	Actinobacteria	Actinomycetales	Intrasporangiaceae	Kribbia
+"Deferribacteres"	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Desulfovirgula
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Chryseobacterium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Klugiella
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Fibrisoma
+Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae Sedis XII	Acidaminobacter
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylorosula
+"Euryarchaeota"	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanosphaera
+"Proteobacteria"	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Denitratisoma
+"Actinobacteria"	Actinobacteria	Actinomycetales	Cellulomonadaceae	Cellulomonas
+"Lentisphaerae"	"Lentisphaeria"	Lentisphaerales	"Lentisphaeraceae"	Lentisphaera
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium XlVa
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Clostridium XlVb
+Firmicutes	Clostridia	Clostridiales	Peptococcaceae 2	Cryptanaerobacter
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 2	Anoxynatronum
+"Deinococcus-Thermus"	Deinococci	Thermales	Thermaceae	Marinithermus
+"Euryarchaeota"	"Methanomicrobia"	Methanomicrobiales	Methanomicrobiaceae	Methanolacinia
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Auraticoccus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Okibacterium
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Solobacterium
+"Proteobacteria"	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis		Sedimenticola
+"Proteobacteria"	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulforegula
+"Actinobacteria"	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Thermobispora
+Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Filifactor
+"Proteobacteria"	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseicyclus
+"Proteobacteria"	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylocapsa
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Cryomorphaceae	Fluviicola
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingosinicella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Propionibacteriaceae	Propioniferax
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Acetanaerobacterium
+"Proteobacteria"	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Wolinella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Dietziaceae	Dietzia
+SR1				SR1_genera_incertae_sedis
+"Actinobacteria"	Actinobacteria	Actinomycetales	Microbacteriaceae	Zimmermannella
+"Proteobacteria"	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Balneatrix
+"Proteobacteria"	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Wohlfahrtiimonas
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella
+"Proteobacteria"	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingorhabdus
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Costertonia
+"Bacteroidetes"	Cytophagia	Cytophagales	Cytophagaceae	Meniscus
+"Crenarchaeota"	Thermoprotei	Thermoproteales	Thermoproteaceae	Vulcanisaeta
+"Proteobacteria"	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter
+"Bacteroidetes"	Sphingobacteriia	"Sphingobacteriales"	"Rhodothermaceae"	Salinibacter
+Firmicutes	Clostridia	Clostridiales	Incertae Sedis XI	Anaerosphaera
+Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus
+"Actinobacteria"	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Ilumatobacter
+"Proteobacteria"	Gammaproteobacteria	Chromatiales	Chromatiaceae	Rheinheimera
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Brackiella
+"Actinobacteria"	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Ferrimicrobium
+Firmicutes	Clostridia	Thermoanaerobacterales	Thermodesulfobiaceae	Thermodesulfobium
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Xiangella
+"Proteobacteria"	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Tanticharoenia
+"Proteobacteria"	Alphaproteobacteria			Eilatimonas
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 1	Marininema
+Firmicutes	Bacilli	Bacillales	Bacillaceae 2	Allobacillus
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Telluria
+"Acidobacteria"	Acidobacteria_Gp24			Gp24
+"Acidobacteria"	Acidobacteria_Gp21			Gp21
+Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae 1	Desmospora
+"Actinobacteria"	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Aeriscardovia
+Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter
+"Planctomycetes"	Planctomycetia	Planctomycetales	Planctomycetaceae	Telmatocola
+"Euryarchaeota"	Halobacteria	Halobacteriales	Halobacteriaceae	Haloarchaeobius
+"Bacteroidetes"	Flavobacteriia	"Flavobacteriales"	Flavobacteriaceae	Weeksella
+"Actinobacteria"	Actinobacteria	Actinomycetales	Actinomycetaceae	Varibaculum
+Nitrospirae	"Nitrospira"	"Nitrospirales"	"Nitrospiraceae"	Leptospirillum
+"Actinobacteria"	Actinobacteria	Coriobacteriales	Coriobacteriaceae	Slackia
+"Proteobacteria"	Betaproteobacteria	Burkholderiales	Comamonadaceae	Extensimonas
+"Verrucomicrobia"	Opitutae	Opitutales	Opitutaceae	Opitutus
+"Actinobacteria"	Actinobacteria	Actinomycetales	Micromonosporaceae	Couchioplanes
+"Lentisphaerae"	"Lentisphaeria"	Victivallales	"Victivallaceae"	Victivallis
+"Thermotogae"	Thermotogae	Thermotogales	Thermotogales_incertae_sedis	Oceanotoga
+Firmicutes	Clostridia	Clostridiales	Syntrophomonadaceae	Thermohydrogenium
+"Proteobacteria"	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Lonepinella
+Firmicutes	Bacilli	Bacillales	Bacillaceae 1	Anoxybacillus
+Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Saccharofermentans

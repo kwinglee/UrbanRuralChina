@@ -1,0 +1,82 @@
+Variable	Label
+U2	Weight (kg)
+U10	Waist circumference (cm)
+As_water	Arsenic in water (µg/L)
+hsCRP	high sensitivity CRP (mg/L)
+CHOL	cholesterol (mmol/L)
+LDL	LDL (mmol/L)
+TG	Triglycerides (mmol/L)
+HDL	HDL (mmol/L)
+INS	Insulin (µU/mL)
+HbA1c	HbA1c (%)
+GLU	Glucose (mmol/L)
+Creatinine	Creatinine in urine (mg/dL)
+BPA_ng_ml	Bisphenol A in morning urine (ng/ml)
+As_Toenail	Arsenic in Toenail (mg/kg)
+bmi	BMI (kg/m2)
+log_MMA_sp_imputed	MMA, spot urine (log)
+log_As3_sp_imputed	As3, spot urine (log)
+log_As5_sp_imputed	As5, spot urine (log)
+log_DMA_sp	DMA, spot urine (log)
+log_MMA_ng_ml_imputed	MMA, morning urine (log)
+log_As3_ng_ml_imputed	As3, morning urine (log)
+log_As5_ng_ml_imputed	As5, morning urine (log)
+log_DMA_ng_ml	DMA, morning urine (log)
+log_urin_iassp	total inorganic (unmethylated only), spot (log)
+log_urin_iasm	total inorganic (unmethylated only), morning (log)
+log_urin_tasmcr	total inorganic (methylad & un), adj for CRE, spot (log)
+log_urin_iasmcr	total inorganic (methylad & un), adj for CRE, morning (log)
+log_urin_tassp	total inorganic (methylad & un), spot (log)
+log_urin_tasm	total inorganic (methylad & un), morning (log)
+r_mmaias_spot	ratio MMA:unmethylated arsenic, spot urine
+r_mmaias_morn	ratio MMA:unmethylated arsenic, morning urine
+r_dmamma_spot	ratio DMA:MMA, spot urine
+r_dmamma_morn	ratio DMA:MMA, morning urine
+pct_dma_spot	percent DMA of total inorganic species, spot urine
+pct_dma_morn	percent DMA of total inorganic species, morning urine
+pct_mma_spot	percent MMA of total inorganic species, spot urine
+pct_mma_morn	percent MMA of total inorganic species, morning urine
+avg_sbp	Average systolic blood pressure
+avg_dbp	Average diastolic blood pressure
+d3fdgrms	3-Day Ave: Food intake (g)
+d3kcal	3-Day Ave: Energy (kcal)
+d3alc_v	3-Day Ave: Alcohol by volume (ml)
+d3alc_w	3-Day Ave: Alcohol by weight (g)
+d3ash	3-Day Ave: Ash (g)
+d3ca	3-Day Ave: Calcium (mg)
+d3carbo	3-Day Ave: Carbohydrate (g)
+d3carotn	3-Day Ave: Carotene (mcg)
+d3cu	3-Day Ave: Copper (mg)
+d3fat	3-Day Ave: Fat (g)
+d3fe	3-Day Ave: Iron (mg)
+d3fiber	3-Day Ave: Fiber (g)
+d3k	3-Day Ave: Potassium (mg)
+d3mg	3-Day Ave: Magnesium (mg)
+d3mn	3-Day Ave: Manganese (mg)
+d3na	3-Day Ave: Sodium (mg)
+d3niacin	3-Day Ave: Niacin (mg)
+d3p1	3-Day Ave: Phosphorus (mg)
+d3protn	3-Day Ave: Protein (g)
+d3retinl	3-Day Ave: Retinol (mcg)
+d3ribofl	3-Day Ave: Riboflavin (mg)
+d3se	3-Day Ave: Selenium (mcg)
+d3thiamn	3-Day Ave: Thiamin (mg)
+d3vita	3-Day Ave: Vitamin A (mcg)
+d3vitc	3-Day Ave: Vitamin C (mg)
+d3vite	3-Day Ave: Vitamin E (mg)
+d3vite_1	3-Day Ave: Alpha tocopherol (mg)
+d3vite_2	3-Day Ave: Beta+gamma tocopherol (mg)
+d3vite_3	3-Day Ave: Delta tocopherol (mg)
+d3water	3-Day Ave: Water (g)
+d3zn	3-Day Ave: Zinc (mg)
+d3enrfat	3-Day Ave: %Energy from Fat
+d3enrpro	3-Day Ave: %Energy from Protein
+d3enercho	3-Day Ave: %Energy from Carbohydrate
+F9	Currently taking antibiotics
+F13	Used antibiotics in the past 6 months
+F17	Taking probiotic supplements
+sex	Gender
+age	Age (years)
+log_avg_urin	inorganic arsenic in urine (log) (average of morning and spot urine)
+avg_pct_dma	percent DMA (average of morning and spot urine)
+avg_pct_mma	percent MMA (average of morning and spot urine)
