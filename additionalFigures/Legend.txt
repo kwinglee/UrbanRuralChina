@@ -1,5 +1,8 @@
 Legend for the files in this directory (in alphabetical order):
 
+minikraken_diversity_bacteriaOnly.jpg: WGS diversity measures on only the Bacterial taxa follows the same trend as using all taxa.
+Comparison of (A) richness, (B) inverse Simpson diversity index, (C) Shannon index or (D) evenness for each taxonomic level, based on whole genome sequencing after subsetting for just the bacterial taxa. P-values indicate the significance of the difference between urban and rural subjects. 
+
 minikraken_v_16S_pValueComparison.jpg: If we compare each taxa present in both whole genome sequencing (WGS) and 16S rRNA sequencing, some taxa are highly correlated and some are less strongly correlated, as has been seen in other studies.
 Comparison of WGS and 16S P-values for differences between rural and urban samples. The blue line linear model and P- values are from a simple regression model. Taxa were matched based on an exact name match.
 
