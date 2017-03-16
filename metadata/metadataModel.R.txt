@@ -85,11 +85,11 @@ pdf("metadata_model_boxplots.pdf")
 for(r in 1:nrow(dFrame)) {
   name = dFrame$names[r]
   met = metadata[,names(metadata)==name]
-  label = getMetadataName(name)
+  label = paste("metadata:", getMetadataName(name))
   
   graphMain =  paste(label, "\n",
                      " pAdjRuralUrban= ", format(dFrame$adjustedPurbanRural[r],digits=3), sep="")
-  boxplot(met ~ ruralUrban, main=graphMain, xlab="", ylab=name)
+  boxplot(met ~ ruralUrban, main=graphMain, xlab="", ylab=getMetadataName(name))
   points(x=ruralUrban, y=met, col=ifelse(metadata$ruralUrban == "rural", "blue", "red"), pch=16)
 }
 dev.off()

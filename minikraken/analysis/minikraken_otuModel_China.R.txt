@@ -66,13 +66,14 @@ for(taxa in taxaLevels) {
   write.table(dFrame, file=paste("minikraken_otuModel_pValues_", taxa, ".txt", sep=""), sep="\t",row.names=FALSE)
   
   ##plots
-  pdf(paste("minikraken_model_boxplots_", taxa, ".pdf", sep=""), height=5, width=5)
+  pdf(paste("kraken_model_boxplots_", taxa, ".pdf", sep=""), height=5, width=5)
   urbanRural = factor(table$ruralUrban)
   for(i in 1:nrow(dFrame)) {
     name = dFrame$names[i]
     abun = table[,names(table)==name]
     
-    graphMain =  paste(name,"\npAdjRuralUrban= ", format(dFrame$adjustedPurbanRural[i],digits=3), sep="")
+    graphMain =  paste("WGS ", taxa, ": ", name,
+                       "\npAdjRuralUrban= ", format(dFrame$adjustedPurbanRural[i],digits=3), sep="")
     boxplot(abun~urbanRural, main=graphMain, ylab="log relative abundance", cex.main=1, outline=F, ylim=range(abun))
     points(abun~jitter(as.numeric(urbanRural)), pch=16, col=ifelse(urbanRural=="rural", "blue", "red"))
   }

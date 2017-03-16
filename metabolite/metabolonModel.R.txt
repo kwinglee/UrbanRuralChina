@@ -116,7 +116,7 @@ pdf("metabolon_model_boxplots.pdf")
 for(r in 1:nrow(dFrame)) {
   name = dFrame$names[r]
   met = metabolon[,names(metabolon)==name]
-  label = getMetaboliteName(name)
+  label = paste("metabolite:", getMetaboliteName(name))
   
   graphMain =  paste(label, "\n",
                      " pAdjRuralUrban= ", format(dFrame$adjustedPurbanRural[r],digits=3), sep="")

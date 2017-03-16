@@ -159,7 +159,8 @@ for(taxa in taxaLevels )
     ##title
     par(mar=rep(0,4))
     plot(0, xlab="", ylab="", type="n", axes=F, xlim=c(-1,1), ylim=c(-1,1))
-    graphMain =  paste(name, " \npAdjRuralUrban=", format(dFrame$adjustedPurbanRural[i], digits=3), 
+    graphMain =  paste("16S ", ifelse(taxa=="otu", "OTU", taxa), ": ", name, 
+                       "\npAdjRuralUrban=", format(dFrame$adjustedPurbanRural[i], digits=3), 
                         "; pAdjTime=", format(dFrame$adjustedPtime[i],digits=3), 
                         "; pAdjSubject=", format(dFrame$adjustedPsubject[i], digits=3), sep="")
     text(0,0,graphMain, adj=.5, cex=2)

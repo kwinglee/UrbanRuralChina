@@ -74,12 +74,13 @@ for(lev in levels) {
   write.table(dFrame, file=paste("humann_otuModel_pValues_unlog_", lev, ".txt",sep=""), sep="\t",row.names=FALSE)
   
   ##plot
-  pdf(paste("humann_model_boxplots_unlog_", lev, ".pdf", sep=""), height=5, width=5)
+  pdf(paste("humann_model_boxplots_", lev, ".pdf", sep=""), height=5, width=5)
   for(i in 1:nrow(dFrame)) {
     name = dFrame$kegg[i]
     abun = table[,names(table)==name]
     
-    graphMain =  paste(name,"\npAdjRuralUrban= ", format(dFrame$adjustedPurbanRural[i],digits=3), sep="")
+    graphMain =  paste("WGS ", lev, ": ", name,
+                       "\npAdjRuralUrban= ", format(dFrame$adjustedPurbanRural[i],digits=3), sep="")
     boxplot(abun~urbanRural, main=graphMain, ylab="log relative abundance", cex.main=1, outline=F, ylim=range(abun))
     points(abun~jitter(as.numeric(urbanRural)), pch=16, col=ifelse(urbanRural=="rural", "blue", "red"))
   }
