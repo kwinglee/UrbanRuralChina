@@ -1,0 +1,4 @@
+Legend for the files in this directory:
+
+pValueComparisonLMvsNonparam_wgs_log.jpg: Comparison of the unadjusted P-values from a Wilcoxon rank sum test to the linear model unadjusted P-values for the whole genome sequencing (WGS) data. The Spearman correlation is given in the title.
+

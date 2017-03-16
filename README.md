@@ -159,3 +159,7 @@ Supplemental Table S8 (Significant associations with virulence genes) is generat
 
 ##Additional files##
 The folder individualPlotsForAllData contains the rural-urban boxplots for each taxon, gene, metadata, and metabolite. These are the outputs from the model results for each type of data (otuModel_16s.R, metabolonModel.R, metadataModel.R, minikraken_otuModel_China.R, and humann_otuModel_China_unlog.R).
+
+The folder additionalFigures contains additional figures that may be of interest to the reader but were not included in the main manuscript.
+
+Both of these folders contain a Legend.txt that describes the files in the folder.
