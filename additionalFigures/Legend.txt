@@ -1,5 +1,11 @@
 Legend for the files in this directory (in alphabetical order):
 
+abx_v_eschshig_noOutlier.jpg: Association between the proportion of reads that map to CARD (antibiotic database) and Escherichia and Shigella after removing the three urban samples with the highest proportion of mapped reads.
+Figure S13 with three urban samples removed.
+
+cardsAndmVir_noOutliers.jpg: Differences between urban and rural antibiotic resistance and virulence are not being driven by the three urban samples with the highest proportion of mapped reads.
+Figure 5D and 5E with three urban samples removed. 
+
 minikraken_diversity_bacteriaOnly.jpg: WGS diversity measures on only the Bacterial taxa follows the same trend as using all taxa.
 Comparison of (A) richness, (B) inverse Simpson diversity index, (C) Shannon index or (D) evenness for each taxonomic level, based on whole genome sequencing after subsetting for just the bacterial taxa. P-values indicate the significance of the difference between urban and rural subjects. 
 
