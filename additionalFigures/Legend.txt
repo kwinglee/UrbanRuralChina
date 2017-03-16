@@ -1,4 +1,7 @@
 Legend for the files in this directory:
 
-pValueComparisonLMvsNonparam_wgs_log.jpg: Comparison of the unadjusted P-values from a Wilcoxon rank sum test to the linear model unadjusted P-values for the whole genome sequencing (WGS) data. The Spearman correlation is given in the title.
+pValueComparisonLMvsNonparam_wgs_log.jpg: Linear model and nonparametric P-values are highly correlated.
+Comparison of the unadjusted P-values from a Wilcoxon rank sum test to the linear model unadjusted P-values for the whole genome sequencing (WGS) data. The Spearman correlation is given in the title.
 
+pValueHistogram.jpg: Our P-value histograms are highly skewed to the left, indicating a strong difference between urban and rural that is not due to overfitting. 
+Histograms of the linear model p-values for the 16S rRNA sequencing results (16S) or whole genome sequencing results (WGS). pChi indicates the result of a Pearson’s chi-squared test while pKS indicates the result of a Kolmogorov-Smirnov test, both with a null hypothesis of a uniform distribution. 
