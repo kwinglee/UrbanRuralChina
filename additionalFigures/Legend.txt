@@ -12,6 +12,11 @@ Comparison of (A) richness, (B) inverse Simpson diversity index, (C) Shannon ind
 minikraken_v_16S_pValueComparison.jpg: If we compare each taxa present in both whole genome sequencing (WGS) and 16S rRNA sequencing, some taxa are highly correlated and some are less strongly correlated, as has been seen in other studies.
 Comparison of WGS and 16S P-values for differences between rural and urban samples. The blue line linear model and P- values are from a simple regression model. Taxa were matched based on an exact name match.
 
+pcoaModel_boxplots_genus_unlog_mds1.jpg: Boxplot of the position of the first PCoA axis for the unlogged 16S genus PCoA (see pcoa_genus_unlog.jpg) 
+
+pcoa_genus_unlog.jpg: PCoA of 16S rRNA sequencing genus results using unlogged data.
+Figure 1E left using relative abundance instead of log normalized abundance.
+
 pValueComparisonLMvsNonparam_wgs_log.jpg: Linear model and nonparametric P-values are highly correlated.
 Comparison of the unadjusted P-values from a Wilcoxon rank sum test to the linear model unadjusted P-values for the whole genome sequencing (WGS) data. The Spearman correlation is given in the title.
 
