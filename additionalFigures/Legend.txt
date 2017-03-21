@@ -10,9 +10,9 @@ minikraken_diversity_bacteriaOnly.jpg: WGS diversity measures on only the Bacter
 Comparison of (A) richness, (B) inverse Simpson diversity index, (C) Shannon index or (D) evenness for each taxonomic level, based on whole genome sequencing after subsetting for just the bacterial taxa. P-values indicate the significance of the difference between urban and rural subjects. 
 
 minikraken_v_16S_pValueComparison.jpg: If we compare each taxa present in both whole genome sequencing (WGS) and 16S rRNA sequencing, some taxa are highly correlated and some are less strongly correlated, as has been seen in other studies.
-Comparison of WGS and 16S P-values for differences between rural and urban samples. The blue line linear model and P- values are from a simple regression model. Taxa were matched based on an exact name match.
+Comparison of WGS and 16S P-values for differences between rural and urban samples. The blue line and P-values are from a linear model. Taxa were matched based on an exact name match.
 
-pcoaModel_boxplots_genus_unlog_mds1.jpg: Boxplot of the position of the first PCoA axis for the unlogged 16S genus PCoA (see pcoa_genus_unlog.jpg) 
+pcoaModel_boxplots_genus_unlog_mds1.jpg: Boxplot of the position of the first PCoA axis for the unlogged 16S genus PCoA (see pcoa_genus_unlog.jpg). 
 
 pcoa_genus_unlog.jpg: PCoA of 16S rRNA sequencing genus results using unlogged data.
 Figure 1E left using relative abundance instead of log normalized abundance.
@@ -21,7 +21,7 @@ pValueComparisonLMvsNonparam_wgs_log.jpg: Linear model and nonparametric P-value
 Comparison of the unadjusted P-values from a Wilcoxon rank sum test to the linear model unadjusted P-values for the whole genome sequencing (WGS) data. The Spearman correlation is given in the title.
 
 pValueHistogram.jpg: Our P-value histograms are highly skewed to the left, indicating a strong difference between urban and rural that is not due to overfitting. 
-Histograms of the linear model p-values for the 16S rRNA sequencing results (16S) or whole genome sequencing results (WGS). pChi indicates the result of a Pearson’s chi-squared test while pKS indicates the result of a Kolmogorov-Smirnov test, both with a null hypothesis of a uniform distribution.
+Histograms of the linear model P-values for the 16S rRNA sequencing results (16S) or whole genome sequencing results (WGS). pChi indicates the P-value from a Pearson’s chi-squared test while pKS indicates the P-value from a Kolmogorov-Smirnov test, both with a null hypothesis of a uniform distribution.
 
 vir_v_eschshig.jpg: The proportion of reads that map to virulence genes is associated with the relative abundance of Escherichia and Shigella.
 Correlation between the proportion of whole genome sequencing reads that aligned to MvirDB (y-axis) to the relative abundance of the indicated taxon in that sample (x-axis). (A) The relative abundances were from 16S rRNA sequencing. (B) The relative abundances were from whole genome sequencing. The Escherichia and Shigella genera are shown, as well as each of the higher taxonomic levels that they belong to. 12 OTUs classified into these genera were also significant (16S), as well as all six species identified in whole genome sequencing. In the upper left corner of each plot, r is the Pearson correlation coefficient and p is the Benjamini and Hochberg adjusted P-value from an ANOVA of the linear model. The model is indicated with the black line. See Table S8 for further details. 
